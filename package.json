@@ -1,0 +1,33 @@
+{
+  "name": "comtrade-grunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/angular": "^1.6.17",
+    "@types/jquery": "^2.0.43",
+    "angular": "^1.6.0",
+    "grunt-contrib-less": "^1.4.1"
+  },
+  "devDependencies": {
+    "browserify": "^14.3.0",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-ts": "^6.0.0-beta.15",
+    "grunt-tslint": "^5.0.1",
+    "load-grunt-config": "^0.19.2",
+    "load-grunt-tasks": "^3.5.2",
+    "tsify": "^3.0.1",
+    "tslint": "^5.2.0",
+    "typescript": "^2.3.2",
+    "typings": "^2.1.1"
+  }
+}
